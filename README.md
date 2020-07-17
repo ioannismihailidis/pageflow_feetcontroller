@@ -1,4 +1,4 @@
-# pageflow_feetcontroller
+# pageflow feetcontroller for Roots & Routes
 
 ## Hardware Requirements
 - Teensy 3.2 (other should also work) + usb (for power)
