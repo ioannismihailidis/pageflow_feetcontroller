@@ -6,3 +6,4 @@
 - 2x 6.3 mm mono jack sockets (for stustain pedals)
 - 4 wires
 
+![Screenshot](2020-07-15 22.17.47.jpg)
